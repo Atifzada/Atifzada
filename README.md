@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atif Zada</h1>
-<h5 align="center">A passionate frontend developer from Pakistan</h5>
+<h3 align="left">A passionate frontend developer from Pakistan</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tof9d7uzxmay79t32rje0avhgvbfqz3s72v9ptuk&rid=giphy.gif&ct=g" >
 <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47etotilck7z3oyh6bpfrzwj1ij0f6826f5vo69579&rid=giphy.gif&ct=g">
