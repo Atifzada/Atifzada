@@ -16,6 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Atifzada/Atif-Zada](https://github.com/Atifzada/Atif-Zada)
 
 - 📫 How to reach me **atifkhatak242@gmail.com**
+- <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
