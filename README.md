@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Atif Zada</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tof9d7uzxmay79t32rje0avhgvbfqz3s72v9ptuk&rid=giphy.gif&ct=g" >
+<img align="left" alt="Coding" width="300" src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47etotilck7z3oyh6bpfrzwj1ij0f6826f5vo69579&rid=giphy.gif&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atifzada&label=Profile%20views&color=0e75b6&style=flat" alt="atifzada" /> </p>
 
