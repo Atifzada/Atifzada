@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Atif Zada</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" >
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tof9d7uzxmay79t32rje0avhgvbfqz3s72v9ptuk&rid=giphy.gif&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atifzada&label=Profile%20views&color=0e75b6&style=flat" alt="atifzada" /> </p>
 
