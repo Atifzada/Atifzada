@@ -2,13 +2,16 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tof9d7uzxmay79t32rje0avhgvbfqz3s72v9ptuk&rid=giphy.gif&ct=g" >
-<img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47etotilck7z3oyh6bpfrzwj1ij0f6826f5vo69579&rid=giphy.gif&ct=g" >
+<img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47etotilck7z3oyh6bpfrzwj1ij0f6826f5vo69579&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atifzada&label=Profile%20views&color=0e75b6&style=flat" alt="atifzada" /> </p>
 
 <p align="left"> <a href="https://twitter.com/atifzad05" target="blank"><img src="https://img.shields.io/twitter/follow/atifzad05?logo=twitter&style=for-the-badge" alt="atifzad05" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **React Native**
+- <br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atifzada/Atif-Zada](https://github.com/Atifzada/Atif-Zada)
 
