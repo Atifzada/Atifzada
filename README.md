@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Microverse**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Ruby** & **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/Atifzada/Atif-Zada](https://github.com/Atifzada)]
 
